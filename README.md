@@ -1,5 +1,5 @@
 # PatenkeunBlockchain
-Repository for Patenkeun (Patent Recording And Granting Based On Etherum Network) Project
+Repository for Patenkeun (Patent Recording And Granting Based On Etherum Network)
 
 System Design of Patenkuen on Ethereum Network![Log Image](System Design Patenkeun.jpg)
 
